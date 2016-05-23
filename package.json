@@ -1,0 +1,27 @@
+{
+  "name": "sfca_site",
+  "version": "1.0.0",
+  "description": "Este proyecto genera los templates para usar en el website de sientifica sas (sientifica.com) basado en un sistema wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sientifica/sfca_site.git"
+  },
+  "keywords": [
+    "sientifica",
+    "wordpress",
+    "theme",
+    "wordpress",
+    "templates",
+    "sientifica.com"
+  ],
+  "author": "@maomuriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sientifica/sfca_site/issues"
+  },
+  "homepage": "https://github.com/Sientifica/sfca_site#readme"
+}
